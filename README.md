@@ -1,10 +1,11 @@
-# Documentando con Alberto
+# Documentando con Alberto Laboratorio02
 ## Mi segundo procedimiento
 
 >Elementos necesarios para el desarrollo del Laboratorio01:
 
 - Ubuntu version 20.04.2.0 (puede ser una version inferior o superior)
 - Docker Desktop
+- Ngnix Latest
 
 Pasos a seguir para la creacion del Laboratio01:
 
